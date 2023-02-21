@@ -14,7 +14,7 @@ public class MultiDeviceCanvasScaler : CanvasScaler
         if(currentRatio != ratio){
             currentRatio = ratio;
             UpdateScale();
-		}
+	}
     }
 
     private float GetCurrentRatio(){
