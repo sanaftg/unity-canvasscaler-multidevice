@@ -1,0 +1,2 @@
+# unity-canvasscaler-multidevice
+UnityのCanvasScalerをデバイスのアスペクト比毎に設定を変更するサンプル
